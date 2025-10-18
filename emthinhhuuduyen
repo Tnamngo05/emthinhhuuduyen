@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ấu dâm CTUT</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #1a1a1a;
+        }
+        video {
+            /* Đảm bảo video không bị tràn ra ngoài container */
+            max-width: 100%;
+            display: block;
+            margin: 15px auto;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Các bạn nữ cẩn thận với thanh niên manh động này</h1>
+        <p>Đây là video được chúng tôi ghi lại một thanh niên hữu duyên một bạn nữ một cách bất ngờ</p>
+
+        <video controls width="40%">
+          <source src="videoemthinhhuuduyen.mp4"type="video/mp4">
+          Rất tiếc, trình duyệt của bạn không hỗ trợ phát video này.
+        </video>
+        <p>các bạn nữ hãy cảnh giác với các thành phần dâm tặc hiện nay nhé đặt biệt là ấu dâm Lâm Phước Thịnh</p>
+    </div>
+
+</body>
+</html>
